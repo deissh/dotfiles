@@ -44,7 +44,7 @@ font-2 = FontAwesome:pixelsize=11;1
 
 modules-left = date time temperature volume battery
 modules-center = xwindow
-modules-right = i3
+modules-right = xkeyboard i3
 
 tray-position = right
 tray-padding = 6
