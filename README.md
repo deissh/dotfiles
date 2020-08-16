@@ -1,7 +1,7 @@
 # i3
 
-![general](http://imgur.com/LThcEXTl.png)
-![workspace](http://imgur.com/chSKsNnl.png)
+![general](https://i.imgur.com/LThcEXT.png)
+![workspace](https://imgur.com/chSKsNn.png)
 
 # Dependencies
 - [i3-gaps](https://github.com/Airblader/i3)
